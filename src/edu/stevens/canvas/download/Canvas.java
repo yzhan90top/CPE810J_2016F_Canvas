@@ -1,7 +1,7 @@
 /**
  * 
  * @author: Gaojian Chen
- * @modifier -
+ * @modifier - 
  */
 package edu.stevens.canvas.download;
 
